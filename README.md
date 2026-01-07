@@ -84,7 +84,7 @@ Image width must be a multiple of 4 (padding ignored)
 No encryption (pure steganography)
 Requires correct bit depth during extraction
 
-🚀 Possible Improvements
+Possible Improvements
 
 Add AES/XOR encryption before embedding
 Automatic BMP header parsing (remove manual width/height input)
@@ -102,7 +102,7 @@ Bit-level data manipulation practice
 Steganography demonstrations
 C++ low-level programming portfolios
 
-📜 License
+License
 MIT License — free to use, modify, and distribute.
 
 
